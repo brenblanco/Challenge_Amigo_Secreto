@@ -30,7 +30,9 @@ Puedes ver y probar el proyecto en tu navegador simplemente abriendo el archivo 
       │── 📜 style.css         # Estilos del sitio  
       │── 📜 app.js           # Lógica del sorteo  
       │── 📁 assets           # Imágenes e íconos 
+
       
 📌 Próximas mejoras (Opcional)
+
 🔹 Agregar la opción de eliminar nombres de la lista antes del sorteo.
 🔹 Guardar los nombres en el almacenamiento local para no perderlos al recargar la página.
