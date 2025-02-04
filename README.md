@@ -24,6 +24,9 @@ Puedes comenzar un nuevo sorteo agregando más nombres.
 Puedes ver y probar el proyecto en tu navegador simplemente abriendo el archivo index.html.
 ![image](https://github.com/user-attachments/assets/e92b4042-8e55-41a7-a91a-742bec759b37)
 
+Tambien podes ver el proyecto accediendo al siguiente link:
+https://vercel.com/brendas-projects-76441e45/challenge-amigo-secreto
+
 📂 Estructura del proyecto
       📁 amigo-secreto  
       │── 📜 index.html        # Estructura del sitio  
